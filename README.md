@@ -1,10 +1,6 @@
-# 🎬 Movie Search App
-
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Movie Search App Animation" width="600"/>
 </p>
-
-> Search movies instantly! Type the movie name, click search, and watch the **poster & overview appear** with smooth animation.  
 
 ---
 
@@ -14,7 +10,6 @@
 - 🖼️ Poster appears instantly  
 - 📝 Overview fades in smoothly  
 - 💻 Responsive UI  
-- ✨ Smooth animations like in the app  
 
 ---
 
