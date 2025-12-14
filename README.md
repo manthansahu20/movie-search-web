@@ -1,8 +1,5 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/movie-search-app/main/assets/typing-animation.svg" alt="Movie Search App Typing Animation" width="600"/>
-</p>
-
+##MOVIE SEARCH APP 🎬🎥🍿
 ---
 
 ## 🔥 Features
