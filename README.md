@@ -1,6 +1,10 @@
 # 🎬 Movie Search App
 
-Explore movies instantly! Search for any movie and watch its **poster** and **overview** appear like magic ✨  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Movie Search App Animation" width="600"/>
+</p>
+
+> Search movies instantly! Type the movie name, click search, and watch the **poster & overview appear** with smooth animation.  
 
 ---
 
@@ -9,24 +13,19 @@ Explore movies instantly! Search for any movie and watch its **poster** and **ov
 - 🔍 Search any movie by name  
 - 🖼️ Poster appears instantly  
 - 📝 Overview fades in smoothly  
-- ⚡ Clean & responsive UI  
+- 💻 Responsive UI  
 - ✨ Smooth animations like in the app  
 
 ---
 
-## 🎨 App Animation Preview
+## ⚙️ Technologies Used
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Search Typing Animation" width="500"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://www.themoviedb.org/assets/2/v4/logos/primary-green-8a7a7c32dd58aeef0c5a07e81a529b6b6398ad04261e54f35ef45a5b0f3c96ed.svg" alt="TMDB API" width="100" height="60"/>
 </p>
-
-*Type the movie name → click search → poster & overview appear with animation!*  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Poster Fade-In Animation" width="500"/>
-</p>
-
-*Poster fades in, overview slides up – just like in the app!*  
 
 ---
 
