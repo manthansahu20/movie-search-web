@@ -25,4 +25,4 @@
 
 1. Clone the repo:  
 ```bash
-git clone https://github.com/yourusername/movie-search-app.git
+git clone https://github.com/manthansahu20/movie-search-app.git
