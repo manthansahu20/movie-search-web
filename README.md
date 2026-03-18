@@ -1,7 +1,12 @@
 
 ##MOVIE SEARCH APP 🎬🎥🍿
 ---
+## 🌐 Live Demo
 
+👉 **Click here to try the app**
+
+🔗 https://manthansahu20.github.io/Recipe--finder/
+ 
 ## 🔥 Features
 
 - 🔍 Search any movie by name  
