@@ -5,7 +5,7 @@
 
 👉 **Click here to try the app**
 
-🔗 https://manthansahu20.github.io/Recipe--finder/
+🔗 https://manthansahu20.github.io/Movie-Search-Web/
  
 ## 🔥 Features
 
