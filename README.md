@@ -5,7 +5,7 @@
 
 👉 **Click here to try the app**
 
-🔗 https://manthansahu20.github.io/Movie-Search-Web/
+🔗 https://manthansahu20.github.io/Movie-Search-web/
  
 ## 🔥 Features
 
